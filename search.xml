@@ -13,20 +13,20 @@
       
       <categories>
           
-          <category> Cloudflare Workers, URL缩短, 教程 </category>
+          <category> Cloudflare Workers </category>
+          
+          <category> URL缩短 </category>
+          
+          <category> 教程 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> Cloudflare </tag>
+            <tag> Cloudflare Workers </tag>
             
-            <tag> Workers </tag>
-            
-            <tag> URL </tag>
-            
-            <tag> 缩短 </tag>
+            <tag> URL缩短 </tag>
             
         </tags>
       
