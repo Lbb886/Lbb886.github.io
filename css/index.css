@@ -9897,9 +9897,9 @@ h1.page-title + .tag-cloud-list {
   flex-direction: column;
 }
 #aside-content >.card-widget.card-info {
-  background: var(--anzhiyu-card-bg);
-  -webkit-box-shadow: var(--anzhiyu-shadow-black);
-  box-shadow: var(--anzhiyu-shadow-black);
+  background: url("https://i.juz.us.kg/2024/12/23/515493.webp") no-repeat center center;
+  -webkit-box-shadow: url("https://i.juz.us.kg/2024/12/23/515493.webp") no-repeat center center;
+  box-shadow: url("https://i.juz.us.kg/2024/12/23/515493.webp") no-repeat center center;
   position: relative;
   padding: 0;
 }
