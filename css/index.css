@@ -9882,7 +9882,7 @@ h1.page-title + .tag-cloud-list {
   flex-direction: column;
 }
 #aside-content >.card-widget.card-info {
-  background: url("https://juz.dpdns.org/2025/05/28/494335.webp") no-repeat center center;
+  background: url("") no-repeat center center;
   -webkit-box-shadow: url("") no-repeat center center;
   box-shadow: url("") no-repeat center center;
   position: relative;
@@ -9899,11 +9899,7 @@ h1.page-title + .tag-cloud-list {
   position: relative;
 }
 #aside-content >.card-widget.card-info::before {
-  background: -webkit-linear-gradient(115deg, var(--anzhiyu-main), var(--anzhiyu-main-op-deep), var(--anzhiyu-main), var(--anzhiyu-main-op-deep));
-  background: -moz-linear-gradient(115deg, var(--anzhiyu-main), var(--anzhiyu-main-op-deep), var(--anzhiyu-main), var(--anzhiyu-main-op-deep));
-  background: -o-linear-gradient(115deg, var(--anzhiyu-main), var(--anzhiyu-main-op-deep), var(--anzhiyu-main), var(--anzhiyu-main-op-deep));
-  background: -ms-linear-gradient(115deg, var(--anzhiyu-main), var(--anzhiyu-main-op-deep), var(--anzhiyu-main), var(--anzhiyu-main-op-deep));
-  background: linear-gradient(-25deg, var(--anzhiyu-main), var(--anzhiyu-main-op-deep), var(--anzhiyu-main), var(--anzhiyu-main-op-deep));
+  background: url("https://juz.dpdns.org/2025/05/28/494335.webp") no-repeat center center;
   background-size: 400%;
   position: absolute;
   width: 100%;
